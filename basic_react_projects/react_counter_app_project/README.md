@@ -1,31 +1,30 @@
-# React & Tailwind CSS Starter Pack
+#Increment & Decrement Counter
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+This project is a simple React application demonstrating the functionality of an increment and decrement counter. Users can increment, decrement, and reset the counter value.
 
-## Usage
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
+Features:
 
-1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
-    ```
+1.Counter Display: Shows the current count value.
 
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
+2.Increment Button: Increases the count by one.
 
-1. Start the development server.
-    ```sh
-    npm start
-    ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
+3.Decrement Button: Decreases the count by one.
 
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
+4.Reset Button: Resets the count to zero.
 
-## Contributing
 
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+Technologies Used:
+
+1.React: Used for building the user interface and managing the application state.
+
+2.CSS: Styling of components.
+
+
+Usage:
+
+1.Click the "+" button to increment the counter.
+
+2.Click the "-" button to decrement the counter.
+
+3.Click the "Reset" button to reset the counter to zero.
