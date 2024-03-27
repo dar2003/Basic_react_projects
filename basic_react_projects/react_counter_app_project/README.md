@@ -1,4 +1,4 @@
-**Increment & Decrement Counter**
+**#Increment & Decrement Counter**
 
 This project is a simple React application demonstrating the functionality of an increment and decrement counter. Users can increment, decrement, and reset the counter value.
 
