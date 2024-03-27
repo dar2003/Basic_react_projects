@@ -57,3 +57,15 @@ This repository contains a collection of simple React projects showcasing variou
 
 **Link to README:** https://github.com/dar2003/Basic_react_projects/blob/main/basic_react_projects/react_counter_app_project/README.md
 
+**Setup Instructions**
+
+
+1.Clone the repository to your local machine.
+
+2.Navigate to the project directory.
+
+3.Run npm install to install dependencies.
+
+4.Run npm start to start the development server.
+
+5.Access the application at http://localhost:3000 in your web browser.
