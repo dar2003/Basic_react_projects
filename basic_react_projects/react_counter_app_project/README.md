@@ -5,20 +5,20 @@ This project is a simple React application demonstrating the functionality of an
 
 **Features:**
 
-1.Counter Display: Shows the current count value.
+1.**Counter Display:** Shows the current count value.
 
-2.Increment Button: Increases the count by one.
+2.**Increment Button:** Increases the count by one.
 
-3.Decrement Button: Decreases the count by one.
+3.**Decrement Button:** Decreases the count by one.
 
-4.Reset Button: Resets the count to zero.
+4.**Reset Button:** Resets the count to zero.
 
 
 **Technologies Used:**
 
-1.React: Used for building the user interface and managing the application state.
+1.**React:** Used for building the user interface and managing the application state.
 
-2.CSS: Styling of components.
+2.**CSS:** Styling of components.
 
 
 **Usage:**
