@@ -1,9 +1,9 @@
-#Increment & Decrement Counter
+**Increment & Decrement Counter**
 
 This project is a simple React application demonstrating the functionality of an increment and decrement counter. Users can increment, decrement, and reset the counter value.
 
 
-Features:
+**Features:**
 
 1.Counter Display: Shows the current count value.
 
@@ -14,14 +14,14 @@ Features:
 4.Reset Button: Resets the count to zero.
 
 
-Technologies Used:
+**Technologies Used:**
 
 1.React: Used for building the user interface and managing the application state.
 
 2.CSS: Styling of components.
 
 
-Usage:
+**Usage:**
 
 1.Click the "+" button to increment the counter.
 
